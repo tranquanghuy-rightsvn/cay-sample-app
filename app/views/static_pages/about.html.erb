@@ -1,12 +1,11 @@
 <% provide :title, "About" %>
-<h1>About</h1>
-<h1 class="mb-40">About</h1>
+<h1><%= t ".about"%></h1>
+<h1 class="mb-40"><%= t ".about"%></h1>
 <p>
-  The <a href="http://www.railstutorial.org/"><em>Ruby on Rails
-  Tutorial</em></a> is a
-  <a href="http://www.railstutorial.org/book">book</a> and
-  <a href="http://screencasts.railstutorial.org/">screencast series</a>
-  to teach web development with
+  <%= t ".the"%> <a href="http://www.railstutorial.org/"><em><%= t ".text_about1"%></em></a> <%= t ".is_a"%>
+  <a href="http://www.railstutorial.org/book"><%= t ".book"%></a> <%= t ".and"%>
+  <a href="http://screencasts.railstutorial.org/"><%= t ".text_about2" %></a>
+  <%= t ".text_about4" %>
   <a href="http://rubyonrails.org/">Ruby on Rails</a>.
-  This is the sample application for the tutorial.
+  <%= t ".text_about3"%>
 </p>

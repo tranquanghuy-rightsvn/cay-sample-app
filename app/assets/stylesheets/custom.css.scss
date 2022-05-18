@@ -3,6 +3,8 @@ $gray-light: #777;
 $gray: #555;
 $gray-darker: #222;
 
+/* universal */
+
 section {
   overflow: auto;
 }
@@ -57,6 +59,8 @@ p {
   margin-right: 15px;
   color: #fff;
 }
+
+/* header */
 
 #logo {
   float: left;
