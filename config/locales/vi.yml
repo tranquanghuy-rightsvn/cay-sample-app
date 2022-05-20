@@ -1,6 +1,9 @@
 vi:
   welcome: "Chào mừng bạn đến với ứng dụng mẫu"
   error1: "Kết hợp email / mật khẩu không hợp lệ"
+  edit: "Hồ sơ đã được chỉnh sửa"
+  deleted: "Người dùng đã bị xoá"
+  text1: "Vui lòng hãy đăng nhâp."
   users:
     new:
       sign_up: "Đăng ký"
@@ -11,6 +14,11 @@ vi:
       home: "Trang chủ"
       help: "Trợ giúp"
       sign_up: "Đăng nhập"
+      user: "Người dùng"
+      profile: "Hồ sơ"
+      setting: "Cài đặt"
+      log_out: "Đăng xuất"
+      account: "Tài khoản"
 
     footer:
       about: "Về"
@@ -60,10 +68,19 @@ vi:
     new: 
       text_user: "Tạo tài khoản của tôi"
 
+    index:
+      user: "Danh sách người dùng"
+
+    edit: 
+      edit: "Cập nhập hồ sơ của bạn"
+      text_edit1: "Lưu thay đổi"
+
+    user: 
+      you_sure: "Bạn chắc chắn"
+
   sessions:
     new:
       login: "Đăng Nhập"
       text_new1: "Người dùng mới"
       text_new2: "Đăng ký ngay!"
       text_new3: "Hãy nhớ tôi trên máy tính này"
-

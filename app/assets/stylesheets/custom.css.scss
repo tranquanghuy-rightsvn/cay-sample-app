@@ -3,6 +3,7 @@ $gray-light: #777;
 $gray: #555;
 $gray-darker: #222;
 $state-danger-text: #222;
+$gray-lighter: #777;
 
 @mixin box_sizing {
   -moz-box-sizing: border-box;
@@ -198,3 +199,12 @@ input {
   margin-left: 0;
 }
 
+.users {
+  list-style: none;
+  margin: 0;
+  li {
+    overflow: auto;
+    padding: 10px 0;
+    border-bottom: 1px solid $gray-lighter;
+  }
+}
