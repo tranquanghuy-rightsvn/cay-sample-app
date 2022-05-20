@@ -1,0 +1,50 @@
+vi:
+  users:
+    new:
+      sign_up: "Đăng ký"
+      text_sign1: "Đây sẽ là trang đăng ký cho người dùng mới."
+
+  layouts:
+    header:
+      home: "Trang chủ"
+      help: "Trợ giúp"
+      sign_up: "Đăng nhập"
+
+    footer:
+      about: "Về"
+      contact: "Tiếp xúc"
+      new: "Mới"
+      the: "Hướng"
+      by: "về"
+      text_footer1: "về Ruby on Rails"
+
+  static_pages:
+    about:
+      about: "Về"
+      the: "Hướng"
+      text_about1: "dẫn Ruby on Rails"
+      is_a: "là một loại"
+      book: "sách"
+      and: "và"
+      text_about2: "video truyền hình"
+      text_about3: "Đây là ứng dụng mẫu cho hướng dẫn."
+      text_about4: "hướng dẫn phát triển web bởi"
+
+    contact:
+      contact: "Tiếp xúc"
+      text_contact1: "Liên hệ với Hướng dẫn Ruby on Rails về ứng dụng mẫu tại"
+      text_contact2: "trang liên hệ"
+
+    help:
+      help: "Trợ giúp"
+      text_help1: "Nhận trợ giúp về Hướng dẫn Ruby on Rails tại"
+      text_help2: "phần trợ giúp hướng dẫn về rails"
+      text_help3: "Để nhận trợ giúp về ứng dụng mẫu này, hãy xem"
+      text_help4: "sách Hướng dẫn về Ruby on Rails"
+
+    home:
+      text_home1: "Chào mừng bạn đến với ứng dụng mẫu"
+      text_home2: "Đây là trang chủ của"
+      text_home3: "Hướng dẫn Ruby on Rails"
+      text_home4: "ứng dụng mẫu"
+      text_home5: "Đăng ký ngay!"
