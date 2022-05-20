@@ -1,4 +1,5 @@
 vi:
+  welcome: "Chào mừng bạn đến với ứng dụng mẫu"
   users:
     new:
       sign_up: "Đăng ký"
@@ -48,3 +49,12 @@ vi:
       text_home3: "Hướng dẫn Ruby on Rails"
       text_home4: "ứng dụng mẫu"
       text_home5: "Đăng ký ngay!"
+
+  shared:
+    error_messages:
+      text_error: "Biểu mẫu chứa"
+      error: "Lỗi"
+
+  users:
+    new: 
+      text_user: "Tạo tài khoản của tôi"
