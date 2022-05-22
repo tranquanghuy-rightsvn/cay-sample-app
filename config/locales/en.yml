@@ -1,4 +1,5 @@
 en:
+  welcome: "Welcome to the Sample App!"
   users:
     new:
       sign_up: "Sign up"
@@ -48,3 +49,12 @@ en:
       text_home3: "Ruby on Rails Tutorial"
       text_home4: "sample application."
       text_home5: "Sign up now!"
+
+  shared:
+    error_messages:
+      text_error: "The form contains"
+      error: "error"
+
+  users:
+    new: 
+      text_user: "Create my account"
