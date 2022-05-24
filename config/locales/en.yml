@@ -1,6 +1,9 @@
 en:
   welcome: "Welcome to the Sample App!"
   error1: "Invalid email/password combination"
+  edit: "Profile updated"
+  deleted: "User deleted"
+  text1: "Please log in."
   users:
     new:
       sign_up: "Sign up"
@@ -11,6 +14,11 @@ en:
       home: "Home"
       help: "Help"
       sign_up: "Sign up"
+      user: "Users"
+      profile: "Profile"
+      setting: "Settings"
+      log_out: "Log out"
+      account: "Account"
 
     footer:
       about: "About"
@@ -59,6 +67,16 @@ en:
   users:
     new: 
       text_user: "Create my account"
+
+    index:
+      user: "All users"
+
+    edit: 
+      edit: "Update your profile"
+      text_edit1: "Save changes"
+
+    user: 
+      you_sure: "you sure"
 
   sessions:
     new:
