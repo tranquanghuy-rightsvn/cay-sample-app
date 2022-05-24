@@ -13,7 +13,7 @@ class UsersController < ApplicationController
     	flash[:success] = I18n.t "welcome"
       redirect_to @user
     else
-      render 'new'
+      render "new"
     end
   end
 

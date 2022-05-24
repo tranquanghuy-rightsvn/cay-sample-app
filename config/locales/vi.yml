@@ -1,5 +1,6 @@
 vi:
   welcome: "Chào mừng bạn đến với ứng dụng mẫu"
+  error1: "Kết hợp email / mật khẩu không hợp lệ"
   users:
     new:
       sign_up: "Đăng ký"
@@ -58,3 +59,11 @@ vi:
   users:
     new: 
       text_user: "Tạo tài khoản của tôi"
+
+  sessions:
+    new:
+      login: "Đăng Nhập"
+      text_new1: "Người dùng mới"
+      text_new2: "Đăng ký ngay!"
+      text_new3: "Hãy nhớ tôi trên máy tính này"
+

@@ -1,5 +1,6 @@
 en:
   welcome: "Welcome to the Sample App!"
+  error1: "Invalid email/password combination"
   users:
     new:
       sign_up: "Sign up"
@@ -58,3 +59,10 @@ en:
   users:
     new: 
       text_user: "Create my account"
+
+  sessions:
+    new:
+      login: "Login"
+      text_new1: "New user?"
+      text_new2: "Sign up now!"
+      text_new3: "Remember me on this computer"
